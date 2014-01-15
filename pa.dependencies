@@ -1,0 +1,26 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "CyanogenMod/android_kernel_asus_grouper",
+        "target_path":  "kernel/asus/grouper",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "blobs",
+        "repository":   "proprietary_vendor_asus",
+        "target_path":  "vendor/asus",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "blobs",
+        "repository":   "proprietary_vendor_nvidia",
+        "target_path":  "vendor/nvidia",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "blobs",
+        "repository":   "proprietary_vendor_broadcom",
+        "target_path":  "vendor/broadcom",
+        "revision":     "cm-11.0"
+    }
+]
